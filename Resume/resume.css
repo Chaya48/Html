@@ -1,0 +1,19 @@
+.center{
+    display: block;
+    margin: auto;
+    margin-right: auto;
+    width: 15%;
+}
+.h2Css{
+    background-color: rgb(214, 205, 193);
+    color: blue;
+    text-align: center;
+}
+.h3Css{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    padding: 1%;
+    background-color: rgb(red, green, blue);
+}
